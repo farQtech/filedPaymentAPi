@@ -1,3 +1,5 @@
+[![.NET](https://github.com/farQtech/filedPaymentAPi/actions/workflows/dotnet.yml/badge.svg?branch=main)](https://github.com/farQtech/filedPaymentAPi/actions/workflows/dotnet.yml)
+
 # filedPaymentAPi
 
 To test this project, clone into your local machine and run with visual studio or dotnet core cli.
